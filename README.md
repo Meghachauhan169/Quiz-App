@@ -1,29 +1,46 @@
-# TodoList Application
+# Project11_QuizApp
 
-In this `README.md`:
-
-- **Title and Description**: Clearly states what the project is about.
-- **Features**: Lists key features of the TodoList application.
-- **Contributing**: Outlines steps for contributing to the project.
-
-This project is a simple TodoList web application built with HTML, CSS, and JavaScript. It allows users to manage tasks by adding, updating, marking as complete, and deleting tasks.
+## Introduction
+Project11_QuizApp is a simple and interactive quiz application designed to test your knowledge on various topics. The app provides multiple-choice questions and gives immediate feedback on your answers. It's a fun and educational tool suitable for all ages.
 
 ## Features
+- **Multiple Categories**: Choose from various categories like Science, History, Technology, and more.
+- **Scoring System**: Track your progress and see your score at the end of each quiz.
+- **Immediate Feedback**: Get instant feedback on your answers.
+- **User-Friendly Interface**: Easy to navigate and use.
 
-- **Add Task**: Users can add new tasks to the list.
-- **Update Task**: Tasks can be edited inline.
-- **Complete Task**: Tasks can be marked as complete by clicking on them.
-- **Delete Task**: Users can remove tasks from the list.
-- **Data Persistence**: Tasks are saved locally in the browser's storage, so they persist across sessions.
+## Installation
 
-## Contributing
+1. Clone the repository:
+    ```bash
+    https://github.com/Meghachauhan169/Quiz-App
+    ```
 
-Contributions are welcome! Here's how you can contribute to the project:
+2. Navigate to the project directory:
+    ```bash
+    cd Project11_QuizApp
+    ```
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/add-new-feature`).
-3. Make modifications and commit changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/add-new-feature`).
-5. Create a pull request.
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-Feel free to customize the content further based on additional features or specifics of the project!
+4. Start the application:
+    ```bash
+    npm start
+    ```
+
+## Usage
+1. Open your web browser and go to `http://localhost:3000` to access the Quiz App.
+2. Select a category and start the quiz.
+3. Answer the multiple-choice questions.
+4. View your score and feedback at the end of the quiz.
+
+
+## Contact
+For any inquiries or feedback, please contact Megha Chauhan at [meghachauhan4005@gmail.com].
+
+## Acknowledgements
+- Thanks to all contributors and users who make this project better.
+- Inspired by various online quiz platforms.
