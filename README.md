@@ -1,7 +1,7 @@
 # Project11_QuizApp
 
 ## Introduction
-Project11_QuizApp is a simple and interactive quiz application designed to test your knowledge on various topics. The app provides multiple-choice questions and gives immediate feedback on your answers. It's a fun and educational tool suitable for all ages.
+QuizApp is a simple and interactive quiz application designed to test your knowledge on various topics. The app provides multiple-choice questions and gives immediate feedback on your answers. It's a fun and educational tool suitable for all ages.
 
 ## Features
 - **Multiple Categories**: Choose from various categories like Science, History, Technology, and more.
